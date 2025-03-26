@@ -1,0 +1,136 @@
+{
+  "topicFilter": "environment/data",
+  "qos": 0,
+  "messages": [
+    {
+      "format": "json",
+      "topic": "environment/data",
+      "timestamp": 1742993292224,
+      "payload": {
+        "station_id": "env-station-01",
+        "temperature": 29.92,
+        "humidity": 66.91,
+        "co2": 1396.83,
+        "timestamp": "2025-03-26 12:48:03"
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "environment/data",
+      "timestamp": 1742993292218,
+      "payload": {
+        "station_id": "env-station-01",
+        "temperature": 29.92,
+        "humidity": 66.91,
+        "co2": 1396.83,
+        "timestamp": "2025-03-26 12:48:03"
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "environment/data",
+      "timestamp": 1742993282215,
+      "payload": {
+        "station_id": "env-station-01",
+        "temperature": -1.78,
+        "humidity": 31.67,
+        "co2": 1920.35,
+        "timestamp": "2025-03-26 12:47:53"
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "environment/data",
+      "timestamp": 1742993282208,
+      "payload": {
+        "station_id": "env-station-01",
+        "temperature": -1.78,
+        "humidity": 31.67,
+        "co2": 1920.35,
+        "timestamp": "2025-03-26 12:47:53"
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "environment/data",
+      "timestamp": 1742993272208,
+      "payload": {
+        "station_id": "env-station-01",
+        "temperature": 30.51,
+        "humidity": 47.7,
+        "co2": 1634.9,
+        "timestamp": "2025-03-26 12:47:43"
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "environment/data",
+      "timestamp": 1742993272198,
+      "payload": {
+        "station_id": "env-station-01",
+        "temperature": 30.51,
+        "humidity": 47.7,
+        "co2": 1634.9,
+        "timestamp": "2025-03-26 12:47:43"
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "environment/data",
+      "timestamp": 1742993262196,
+      "payload": {
+        "station_id": "env-station-01",
+        "temperature": -33.45,
+        "humidity": 72.07,
+        "co2": 1033.44,
+        "timestamp": "2025-03-26 12:47:33"
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "environment/data",
+      "timestamp": 1742993262187,
+      "payload": {
+        "station_id": "env-station-01",
+        "temperature": -33.45,
+        "humidity": 72.07,
+        "co2": 1033.44,
+        "timestamp": "2025-03-26 12:47:33"
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "environment/data",
+      "timestamp": 1742993252186,
+      "payload": {
+        "station_id": "env-station-01",
+        "temperature": -9.67,
+        "humidity": 89.38,
+        "co2": 1214.52,
+        "timestamp": "2025-03-26 12:47:23"
+      },
+      "qos": 0
+    },
+    {
+      "format": "json",
+      "topic": "environment/data",
+      "timestamp": 1742993252179,
+      "payload": {
+        "station_id": "env-station-01",
+        "temperature": -9.67,
+        "humidity": 89.38,
+        "co2": 1214.52,
+        "timestamp": "2025-03-26 12:47:23"
+      },
+      "qos": 0
+    }
+  ]
+}
